@@ -76141,7 +76141,7 @@ V8(){var s=null,r=this.d.length
 return new A.a2t(B.yD,new A.at5(new A.azl(this),r,!0,!0,!0,s),B.la,B.bd,!1,s,s,B.xj,!1,s,r,B.b_,B.HF,s,B.aY,s)}}
 A.azn.prototype={
 $1(a){var s=this.a,r=s.d
-r.push(new A.PH(B.DJ,"Health App","The Health App is the first application in this repository, demonstrating a robust and user-friendly platform for managing personal health and wellness. This app offers a range of features to help users track their fitness activities, monitor vital health metrics, and achieve their health goals.","/Users/ghag23/Projects/step_01/assets/gifs/health_app.gif","https://github.com/GhagSagar23/legendary-system/tree/develop/healthapp"))
+r.push(new A.PH(B.DJ,"Health App","The Health App is the first application in this repository, demonstrating a robust and user-friendly platform for managing personal health and wellness. This app offers a range of features to help users track their fitness activities, monitor vital health metrics, and achieve their health goals.","assets/gifs/health_app.gif","https://github.com/GhagSagar23/legendary-system/tree/develop/healthapp"))
 r.push(new A.PH(B.DK,"Project 1","Description 1",null,null))
 s.ao(new A.azm())},
 $S:3}

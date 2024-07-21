@@ -122,7 +122,7 @@ The **Health App** is the first application in this repository, demonstrating a 
 
 #### Screenshots:
 
-![Home Screen](healthapp/screenshots/health_app/health_app.gif)
+![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/healthapp/screenshots/health_app/health_app.gif)
 
 ### 2. [Finance App](https://github.com/GhagSagar23/legendary-system/tree/develop/financeapp)
 
@@ -142,7 +142,7 @@ The **Finance App** is a comprehensive financial management tool designed to hel
 
 #### Screenshots:
 
-![Home Screen](financeapp/screenshots/finance_app.gif)
+![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/financeapp/screenshots/finance_app.gif)
 
 ### 3. [Pizza App](https://github.com/GhagSagar23/legendary-system/tree/develop/pizzaapp)
 
@@ -162,7 +162,7 @@ The **Pizza App** is a delightful food ordering application that allows users to
 
 #### Screenshots:
 
-![Home Screen](pizzaapp/screenshots/pizza_app.gif)
+![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/pizzaapp/screenshots/pizza_app.gif)
 
 ### 4. [Food Order App](https://github.com/GhagSagar23/legendary-system/tree/develop/foodorderapp)
 
@@ -182,7 +182,7 @@ The **Food Order App** is a convenient and user-friendly platform for ordering f
 
 #### Screenshots:
 
-![Home Screen](foodorderapp/screenshots/food_order_app.gif)
+![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/foodorderapp/screenshots/food_order_app.gif)
 
 ### 5. [Parallex App](https://github.com/GhagSagar23/legendary-system/tree/develop/parallexapp)
 
@@ -201,7 +201,7 @@ The **Parallex App** is a visually stunning application that showcases the paral
 
 #### Screenshots:
 
-![Home Screen](parallexapp/screenshots/parallex_app.gif)
+![Home Screen](https://raw.githubusercontent.com/GhagSagar23/legendary-system/develop/parallexapp/screenshots/parallex_app.gif)
 
 ---
 
@@ -222,3 +222,5 @@ This repository is licensed under the MIT License. For more details, please refe
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ghag23/) or via email at [sagar.ghag1997@gmail.com](mailto:sagar.ghag1997@gmail.com) for any queries or collaboration opportunities.
 
 Thank you for visiting the **Legendary System** repository. Stay tuned for more exciting applications!
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=GhagSagar23.visitor-badge)

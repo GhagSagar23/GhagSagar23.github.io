@@ -2,8 +2,6 @@
 
 ## Flutter Tech Lead & Team Lead
 
----
-
 ### About Me
 
 I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience in mobile app development.
@@ -30,49 +28,197 @@ I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience i
 
 ---
 
-### Tech Skills
+## Tech Stack
 
-- **Languages & Frameworks:** Dart, Swift, Flutter
-- **Tools:** Git, CI/CD, Firebase
-- **Methodologies:** Agile, Scrum
-
----
-
-### Featured Projects
-
-- **Meet7:** An IIT-IIM alum initiative to transform Dating app in India and make it a delightful experience for its users. Meet7 is India’s first Video Speed Dating app. It provides its users a unique amalgamation of traditional Online Dating and Speed Dating. Users have two ways to find their right partner – Interact with Meet7 recommended matches or join Meet7 curated Speed Dating Events. Meet7 uses Technology, Artificial Intelligence and Process improvements to make sure Indians have the best, safest and most comfortable Online Dating Experience. Meet7 makes you meet people and not profiles. Available on
-
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.meet7.app)
-  - [App Store](https://apps.apple.com/in/app/meet7/id1560730733)
-
-- **ResolvedX:** ResolvedX is the missing link between your company, employees and your customer base. Being in the service business means one thing. Complaints! They will happen and how you handle them will dictate your company's future. ResolvedX gives you and the customer the ability to create and track complaints in real-time. This is a game-changing application that will put you in control of your businesses future. Available on
-
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.sfl.is.resolvedx&hl=en_US)
-  - [App Store](https://apps.apple.com/us/app/resolvedx/id1550943207)
-
-- **SoAct:** "Here at SoAct, we believe in the power of organizing for positive change. Whether you are fighting for social justice or raising awareness about a local issue, everyone has the power to become an activist. Wherever you are in your activism, advocacy, and awareness journey, SoAct is a place where you can connect with like minded people to make a positive difference in the world, no matter how small. We are a condensed social media platform that is centered around your passions and desire to positively impact shared communities. In the app, you can form groups that are focused on one area, such as sustainability, blood drives, clothing drives, cancer awareness, etc. In those groups you have the ability to engage in conversations, share resources, and plan virtual or in person events. You get to earn points and badges for your involvement in the app! Available on
-
-  - [App Store](https://apps.apple.com/us/app/soact/id1556801035)
-
-- **Ahoy - On Call!:** The on-demand app that allows health systems to monitor quality amongst medical professionals to determine when and where they work. Ahoy! On-Call will transform your free time into additional income by responding to requests from affiliated hospital systems for consultations and nurse shifts. Ahoy! On-Call provides unprecedented access to quality and service driven performance that health systems, hospitals, and patients deserve. Available on
-
-  - [Google Play Store](https://play.google.com/store/apps/details?id=com.ahoyoncall.nurses&hl=en_US)
-  - [App Store](https://apps.apple.com/us/app/ahoy-on-call/id1532865957)
+- **Languages & Frameworks:**
+  - Dart
+  - Swift
+  - Kotlin
+  - Flutter
+- **Tools:**
+  - Git
+  - CI/CD
+  - Firebase
+  - SQLite
+  - Xcode
+  - Android Studio
+  - VS Code
+  - Postman
+  - Jira
+- **Methodologies:**
+  - Agile
+  - Scrum
+  - Kanban
+  - Test-Driven Development (TDD)
+  - Behavior-Driven Development (BDD)
 
 ---
 
-### My GitHub Stats
+## My GitHub Stats
 
-## ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GhagSagar23&show_icons=true&theme=vue-dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GhagSagar23&show_icons=true&theme=vue-dark)
 
-## ![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GhagSagar23&theme=vue-dark)
+![Your GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GhagSagar23&theme=vue-dark)
 
-## ![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhagSagar23&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhagSagar23&layout=compact&theme=vue-dark)
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out to me if you want to collaborate on any project or just want to connect.
+## Community Contributions
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=GhagSagar23.visitor-badge)
+### 1. [livelyness_detection](https://pub.dev/packages/livelyness_detection)
+
+The `livelyness_detection` package is a Flutter plugin that detects the user's liveliness by analyzing facial expressions and movements. This plugin uses the device's camera to capture the user's face and provides real-time feedback on their liveliness status. The `livelyness_detection` package is ideal for applications that require liveliness detection for security, authentication, or engagement purposes.
+
+#### Key Features:
+
+- **Google ML Kit**: Detects facial expressions such as smiles, frowns, and blinks.
+- **Real-Time Feedback**: Provides instant feedback on the user's liveliness status.
+- **Customizable Thresholds**: Allows developers to set custom thresholds for liveliness detection.
+
+#### Technologies Used:
+
+- **Flutter**: Utilizing Flutter for a responsive and visually appealing user interface.
+- **Dart**: Writing clean and efficient code with Dart programming language.
+- **Google ML Kit**: Leveraging Google ML Kit for facial expression detection.
+
+#### Installation:
+
+To install the `livelyness_detection` package, add the following dependency to your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  livelyness_detection: ^0.0.1+2
+```
+
+#### Example:
+
+![Livelyness Detection Example](https://raw.githubusercontent.com/GhagSagar23/livelyness_detection/develop/lib/src/assets/demo/livelyness_detection_android.gif)
+
+For detailed usage instructions and examples, refer to the [livelyness_detection package documentation](https://pub.dev/packages/livelyness_detection).
+
+---
+
+## Current Projects
+
+### 1. [Health App](https://github.com/GhagSagar23/legendary-system/tree/develop/healthapp)
+
+The **Health App** is the first application in this repository, demonstrating a robust and user-friendly platform for managing personal health and wellness. This app offers a range of features to help users track their fitness activities, monitor vital health metrics, and achieve their health goals.
+
+#### Key Features:
+
+- **Activity Tracking**: Log daily activities such as walking, running, and cycling.
+- **Health Metrics**: Monitor vital signs like heart rate, blood pressure, and more.
+- **Goals and Reminders**: Set health goals and receive reminders to stay on track.
+- **User-Friendly Interface**: Enjoy an intuitive and seamless user experience.
+
+#### Technologies Used:
+
+- **Flutter**: Leveraging the power of Flutter for a smooth and responsive cross-platform app.
+- **Dart**: Implementing efficient and maintainable code with Dart.
+- **Firebase**: Integrating Firebase for real-time database and authentication.
+
+#### Screenshots:
+
+![Home Screen](healthapp/screenshots/health_app/health_app.gif)
+
+### 2. [Finance App](https://github.com/GhagSagar23/legendary-system/tree/develop/financeapp)
+
+The **Finance App** is a comprehensive financial management tool designed to help users track their expenses, manage budgets, and achieve financial stability. This app offers a range of features to simplify money management and empower users to make informed financial decisions.
+
+#### Key Features:
+
+- **Expense Tracking**: Log daily expenses and categorize transactions for better visibility.
+- **Card Management**: Manage credit and debit cards, track spending, and set limits.
+- **Apperance Customization**: Personalize the app with themes, colors, and fonts.
+
+#### Technologies Used:
+
+- **Flutter**: Utilizing Flutter for a responsive and visually appealing user interface.
+- **Dart**: Writing clean and efficient code with Dart programming language.
+- **SQLite**: Implementing a local database for storing user data securely.
+
+#### Screenshots:
+
+![Home Screen](financeapp/screenshots/finance_app.gif)
+
+### 3. [Pizza App](https://github.com/GhagSagar23/legendary-system/tree/develop/pizzaapp)
+
+The **Pizza App** is a delightful food ordering application that allows users to browse a variety of pizzas, customize their orders, and place them seamlessly. This app offers a range of features to enhance the user experience and make ordering pizza a fun and convenient process.
+
+#### Key Features:
+
+- **Pizza Selection**: Browse a wide selection of pizzas with detailed descriptions and images.
+- **Customization Options**: Customize pizzas with toppings, crusts, and sizes to suit your preferences.
+- **Order Placement**: Place orders quickly and securely with a few taps on the app.
+
+#### Technologies Used:
+
+- **Flutter**: Building a visually appealing and interactive user interface with Flutter.
+- **Dart**: Writing clean and efficient code with Dart programming language.
+- **Firebase**: Integrating Firebase for real-time database and authentication.
+
+#### Screenshots:
+
+![Home Screen](pizzaapp/screenshots/pizza_app.gif)
+
+### 4. [Food Order App](https://github.com/GhagSagar23/legendary-system/tree/develop/foodorderapp)
+
+The **Food Order App** is a convenient and user-friendly platform for ordering food from a variety of restaurants. This app offers a range of features to simplify the food ordering process, provide detailed restaurant information, and ensure a seamless user experience.
+
+#### Key Features:
+
+- **Restaurant Selection**: Browse a list of restaurants, view menus, and select items to order.
+- **Order Customization**: Customize food items with options, quantities, and special instructions.
+- **Order Placement**: Place orders securely and track delivery status in real-time.
+
+#### Technologies Used:
+
+- **Flutter**: Developing a responsive and visually appealing user interface with Flutter.
+- **Dart**: Writing clean and efficient code with Dart programming language.
+- **Firebase**: Integrating Firebase for real-time database and authentication.
+
+#### Screenshots:
+
+![Home Screen](foodorderapp/screenshots/food_order_app.gif)
+
+### 5. [Parallex App](https://github.com/GhagSagar23/legendary-system/tree/develop/parallexapp)
+
+The **Parallex App** is a visually stunning application that showcases the parallax effect in Flutter. This app features a captivating parallax effect on images, creating a sense of depth and immersion for users. The Parallex App demonstrates the power of Flutter in creating engaging and interactive user experiences.
+
+#### Key Features:
+
+- **Parallax Effect**: Implementing a parallax effect on images for a visually appealing interface.
+- **Interactive Design**: Engaging users with dynamic and interactive elements.
+- **Smooth Animations**: Creating seamless animations to enhance the user experience.
+
+#### Technologies Used:
+
+- **Flutter**: Leveraging Flutter's animation capabilities to create dynamic user interfaces.
+- **Dart**: Writing clean and efficient code with Dart programming language.
+
+#### Screenshots:
+
+![Home Screen](parallexapp/screenshots/parallex_app.gif)
+
+---
+
+## Contributing
+
+Contributions are welcome! If you have suggestions, ideas, or enhancements, feel free to open an issue or submit a pull request. Let's collaborate to make these applications even better.
+
+---
+
+## License
+
+This repository is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
+---
+
+## Contact
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ghag23/) or via email at [sagar.ghag1997@gmail.com](mailto:sagar.ghag1997@gmail.com) for any queries or collaboration opportunities.
+
+Thank you for visiting the **Legendary System** repository. Stay tuned for more exciting applications!

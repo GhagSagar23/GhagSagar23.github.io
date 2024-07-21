@@ -69,6 +69,8 @@ I'm a **Flutter Tech Lead** and **Team Lead** with 6 years of total experience i
 
 ## ![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhagSagar23&layout=compact&theme=vue-dark)
+
 ---
 
 Thank you for visiting my profile! Feel free to reach out to me if you want to collaborate on any project or just want to connect.
